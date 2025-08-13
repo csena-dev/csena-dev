@@ -3,10 +3,9 @@ Atualmente, estou focado em **back-end** com **Node.js** e no **front-end** com 
 
 ### Meus Status 📊
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=csenadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/csenadev)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=csena-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/csena-dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csenadev&layout=compact&langs_count=7&theme=dark)](https://github.com/csenadev)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csena-dev&layout=compact&langs_count=7&theme=dark)](https://github.com/csena-dev)
 
 
 ### Back-end:
