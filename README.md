@@ -1,8 +1,8 @@
 ### Meus Status 📊
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=csena-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/csena-dev)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=csena-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/csena-dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csena-dev&layout=compact&langs_count=7&theme=dark)](https://github.com/csena-dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csena-dev&layout=compact&langs_count=7&theme=dark)](https://github.com/csena-dev)
+ 
 
 ### plataformas:
 <div style="display: inline_block">
