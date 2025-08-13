@@ -1,6 +1,3 @@
-### Olá, eu me chamo Caio 👋
-Atualmente, estou focado em **back-end** com **Node.js** e no **front-end** com **React.js**
-
 ### Meus Status 📊
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=csena-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/csena-dev)
@@ -15,9 +12,8 @@ Atualmente, estou focado em **back-end** com **Node.js** e no **front-end** com 
 
 ### Back-end:
 <div style="display: inline_block">
-     <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />   
+     <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />     
      <img align="center" alt="Expressjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-     <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />   
 </div>
 
 
@@ -37,6 +33,15 @@ Atualmente, estou focado em **back-end** com **Node.js** e no **front-end** com 
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="ServerSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />  
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-          
+  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />         
 </div>
+
+
+ ### Tecnologias já utilizadas:
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+</div>
+
+  ### Me Encontre Aqui 📬
+<a href="https://www.linkedin.com/in/caio-sena-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
